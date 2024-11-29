@@ -1,8 +1,8 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'https://submission-cancer-dwiki-715723596343.asia-southeast2.run.app';
+const BASE_URL = 'https://cancer-backend-715723596343.asia-southeast2.run.app';
 
 const ENDPOINT = {
-  predict: `${BASE_URL}/predict`,
+  predict: `https://cancer-backend-715723596343.asia-southeast2.run.app/predict`,
 };
 
 class PredictAPI {
